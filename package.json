@@ -3,11 +3,11 @@
     "displayName": "vscode-njk-template-literal",
     "description": "Syntax highlighting for nunjucks in template literals",
     "version": "0.1.0",
-    "publisher": "forbeslindesay",
+    "publisher": "tomasino",
     "license": "MIT",
     "repository": {
         "type": "git",
-        "url": "https://github.com/ForbesLindesay/vscode-njk-template-literal.git"
+        "url": "https://github.com/tomassentkeresty/vscode-njk-template-literal.git"
     },
     "engines": {
         "vscode": "^1.5.0"
