@@ -31,7 +31,7 @@
           "include": "source.ts#template-substitution-element"
         },
         {
-          "include": "source.sql"
+          "include": "text.html.nunjucks"
         }
       ]
     }
