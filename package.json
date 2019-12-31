@@ -1,7 +1,7 @@
 {
     "name": "vscode-njk-template-literal",
     "displayName": "vscode-njk-template-literal",
-    "description": "Syntax highlighting for sql in template literals",
+    "description": "Syntax highlighting for nunjucks in template literals",
     "version": "0.1.0",
     "publisher": "forbeslindesay",
     "license": "MIT",
