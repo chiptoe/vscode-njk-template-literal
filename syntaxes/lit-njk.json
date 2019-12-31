@@ -4,7 +4,7 @@
   "patterns": [
     {
       "name": "taggedTemplates",
-      "contentName": "meta.embedded.block.sql",
+      "contentName": "meta.embedded.block.njk",
       "begin": "sql((`))",
       "beginCaptures": {
         "1": {

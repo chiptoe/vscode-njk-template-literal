@@ -28,7 +28,7 @@
                 "scopeName": "inline.lit-njk",
                 "path": "./syntaxes/lit-njk.json",
                 "embeddedLanguages": {
-                    "meta.embedded.block.sql": "nunjucks"
+                    "meta.embedded.block.njk": "nunjucks"
                 }
             }
         ]
