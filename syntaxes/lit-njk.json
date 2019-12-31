@@ -36,5 +36,5 @@
       ]
     }
   ],
-  "scopeName": "inline.lit-sql"
+  "scopeName": "inline.lit-njk"
 }

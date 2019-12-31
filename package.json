@@ -25,8 +25,8 @@
                     "source.ts",
                     "source.tsx"
                 ],
-                "scopeName": "inline.lit-sql",
-                "path": "./syntaxes/lit-sql.json",
+                "scopeName": "inline.lit-njk",
+                "path": "./syntaxes/lit-njk.json",
                 "embeddedLanguages": {
                     "meta.embedded.block.sql": "sql"
                 }
